@@ -1,0 +1,13 @@
+body{
+    padding: 1rem;
+    background-color: #563d7c;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.botao {
+    padding-top: 10px;
+}
